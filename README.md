@@ -1,6 +1,6 @@
 ## Manipulation Robust Regression Discontinuity Bounds Estimation in Stata and R
 
-This is a public repository for the package ```rdbounds``` for Stata and R, which implements the estimation procedure developed in the paper [Bounds on Treatment Effects in Regression Discontinuity Designs under Manipulation of the Running Variable, with an Application to Unemployment Insurance in Brazil](http://www.nber.org/papers/w22892 "NBER Working Paper"), by François Gerard, Miikka Rokkanen, and Christoph Rothe.
+This is a public repository for the package ```rdbounds``` for Stata and R, which implements the estimation procedure developed in the paper [Bounds on Treatment Effects in Regression Discontinuity Designs under Manipulation of the Running Variable, with an Application to Unemployment Insurance in Brazil](http://www.nber.org/papers/w22892 "NBER Working Paper"), by François Gerard, Miikka Rokkanen, and Christoph Rothe. [Full GitHub repository](https://github.com/francoisgerard/rdbounds).
 
 This is a preliminary version of the code and is offered without warranty. We appreciate any feedback or issues noted. Please direct your comments to leonard.goff at columbia dot edu. The current version is 1.00, dated July 1st, 2018.
 
